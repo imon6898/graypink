@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/profile": "pages/profile.js",
+  "/dashboard/staffs": "pages/dashboard/staffs.js",
+  "/categories": "pages/categories.js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/api/home/wishlist": "pages/api/home/wishlist.js",
+  "/dashboard/page/home": "pages/dashboard/page/home.js",
+  "/404": "pages/404.js",
+  "/api/home/settings": "pages/api/home/settings.js"
+}

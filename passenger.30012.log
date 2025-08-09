@@ -1,0 +1,195 @@
+[ N 2025-07-08 02:53:59.9609 365461/T1 age/Wat/WatchdogMain.cpp:1365 ]: Starting Passenger watchdog...
+[ N 2025-07-08 02:53:59.9726 365465/T1 age/Cor/CoreMain.cpp:1283 ]: Starting Passenger core...
+[ N 2025-07-08 02:53:59.9727 365465/T1 age/Cor/CoreMain.cpp:244 ]: Passenger core running in multi-application mode.
+[ N 2025-07-08 02:54:00.0210 365465/T1 age/Cor/CoreMain.cpp:961 ]: Passenger core online, PID 365465
+[ N 2025-07-08 02:54:02.5454 365465/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+App 365685 output: > Ready on 30007
+App 365685 output: (node:365685) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+App 365685 output: (Use `node --trace-deprecation ...` to show where the warning was created)
+App 365685 output: react-i18next:: You will need to pass in an i18next instance by using initReactI18next
+
+[ N 2025-07-08 02:55:55.8019 365465/T9 age/Cor/CoreMain.cpp:658 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2025-07-08 02:55:55.8020 365465/T1 age/Cor/CoreMain.cpp:1191 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2025-07-08 02:55:55.8020 365465/T1 age/Cor/CoreMain.cpp:1092 ]: Checking whether to disconnect long-running connections for process 365685, application /home/tecklyne/server.deshitecommerce (development)
+[ N 2025-07-08 02:55:55.8021 365465/T9 Ser/Server.h:895 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8021 365465/Th Ser/Server.h:895 ]: [ServerThr.5] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8021 365465/Td Ser/Server.h:895 ]: [ServerThr.3] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/T9 Ser/Server.h:552 ]: [ServerThr.1] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/Th Ser/Server.h:552 ]: [ServerThr.5] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/Tl Ser/Server.h:895 ]: [ServerThr.7] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8021 365465/Tb Ser/Server.h:895 ]: [ServerThr.2] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/Td Ser/Server.h:552 ]: [ServerThr.3] Shutdown finished
+[ N 2025-07-08 02:55:55.8021 365465/Tf Ser/Server.h:895 ]: [ServerThr.4] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/Tp Ser/Server.h:895 ]: [ServerThr.9] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/Tj Ser/Server.h:895 ]: [ServerThr.6] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/T1b Ser/Server.h:895 ]: [ServerThr.20] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/Tz Ser/Server.h:895 ]: [ServerThr.14] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/Tx Ser/Server.h:895 ]: [ServerThr.13] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/Tr Ser/Server.h:895 ]: [ServerThr.10] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/Tv Ser/Server.h:895 ]: [ServerThr.12] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/T11 Ser/Server.h:895 ]: [ServerThr.15] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/T15 Ser/Server.h:895 ]: [ServerThr.17] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/Tr Ser/Server.h:552 ]: [ServerThr.10] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/Tl Ser/Server.h:552 ]: [ServerThr.7] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/Tt Ser/Server.h:895 ]: [ServerThr.11] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/T13 Ser/Server.h:895 ]: [ServerThr.16] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/T17 Ser/Server.h:895 ]: [ServerThr.18] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/Tb Ser/Server.h:552 ]: [ServerThr.2] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/T1f Ser/Server.h:895 ]: [ServerThr.22] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/T1d Ser/Server.h:895 ]: [ServerThr.21] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/Tf Ser/Server.h:552 ]: [ServerThr.4] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/Tn Ser/Server.h:895 ]: [ServerThr.8] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/Tp Ser/Server.h:552 ]: [ServerThr.9] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/Tj Ser/Server.h:552 ]: [ServerThr.6] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/Tz Ser/Server.h:552 ]: [ServerThr.14] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/Tx Ser/Server.h:552 ]: [ServerThr.13] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/T1j Ser/Server.h:895 ]: [ServerThr.24] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8022 365465/Tv Ser/Server.h:552 ]: [ServerThr.12] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/T11 Ser/Server.h:552 ]: [ServerThr.15] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/T15 Ser/Server.h:552 ]: [ServerThr.17] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/Tt Ser/Server.h:552 ]: [ServerThr.11] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/T13 Ser/Server.h:552 ]: [ServerThr.16] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/T17 Ser/Server.h:552 ]: [ServerThr.18] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/T1f Ser/Server.h:552 ]: [ServerThr.22] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/T1d Ser/Server.h:552 ]: [ServerThr.21] Shutdown finished
+[ N 2025-07-08 02:55:55.8023 365465/T19 Ser/Server.h:895 ]: [ServerThr.19] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8023 365465/Tn Ser/Server.h:552 ]: [ServerThr.8] Shutdown finished
+[ N 2025-07-08 02:55:55.8023 365465/T1l Ser/Server.h:895 ]: [ApiServer] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8023 365465/T1h Ser/Server.h:895 ]: [ServerThr.23] Freed 0 spare client objects
+[ N 2025-07-08 02:55:55.8023 365465/T1j Ser/Server.h:552 ]: [ServerThr.24] Shutdown finished
+[ N 2025-07-08 02:55:55.8023 365465/T19 Ser/Server.h:552 ]: [ServerThr.19] Shutdown finished
+[ N 2025-07-08 02:55:55.8023 365465/T1l Ser/Server.h:552 ]: [ApiServer] Shutdown finished
+[ N 2025-07-08 02:55:55.8022 365465/T1b Ser/Server.h:552 ]: [ServerThr.20] Shutdown finished
+[ N 2025-07-08 02:55:55.8023 365465/T1h Ser/Server.h:552 ]: [ServerThr.23] Shutdown finished
+[ N 2025-07-08 02:55:55.8024 365465/T1 age/Cor/CoreMain.cpp:1092 ]: Checking whether to disconnect long-running connections for process 365685, application /home/tecklyne/server.deshitecommerce (development)
+[ N 2025-07-08 02:55:56.6424 365465/T1 age/Cor/CoreMain.cpp:1268 ]: Passenger core shutdown finished
+[ N 2025-07-08 02:56:11.4179 373203/T1 age/Wat/WatchdogMain.cpp:1365 ]: Starting Passenger watchdog...
+[ N 2025-07-08 02:56:11.4296 373207/T1 age/Cor/CoreMain.cpp:1283 ]: Starting Passenger core...
+[ N 2025-07-08 02:56:11.4297 373207/T1 age/Cor/CoreMain.cpp:244 ]: Passenger core running in multi-application mode.
+[ N 2025-07-08 02:56:11.4755 373207/T1 age/Cor/CoreMain.cpp:961 ]: Passenger core online, PID 373207
+[ N 2025-07-08 02:56:14.0087 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+App 373293 output: > Ready on 30007
+App 373293 output: (node:373293) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+App 373293 output: (Use `node --trace-deprecation ...` to show where the warning was created)
+App 373293 output: react-i18next:: You will need to pass in an i18next instance by using initReactI18next
+[ W 2025-07-09 11:35:35.0306 373207/T4 age/Cor/App/Poo/AnalyticsCollection.cpp:104 ]: Process (pid=373293, group=/home/tecklyne/server.deshitecommerce (development)) no longer exists! Detaching it from the pool.
+[ N 2025-07-09 11:35:35.0311 373207/T4 age/Cor/CoreMain.cpp:1092 ]: Checking whether to disconnect long-running connections for process 373293, application /home/tecklyne/server.deshitecommerce (development)
+App 2437457 output: > Ready on 30007
+App 2437457 output: (node:2437457) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+App 2437457 output: (Use `node --trace-deprecation ...` to show where the warning was created)
+App 2437457 output: react-i18next:: You will need to pass in an i18next instance by using initReactI18next
+[ N 2025-07-09 14:56:14.5314 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ W 2025-07-10 11:37:05.0314 373207/T4 age/Cor/App/Poo/AnalyticsCollection.cpp:104 ]: Process (pid=2437457, group=/home/tecklyne/server.deshitecommerce (development)) no longer exists! Detaching it from the pool.
+[ N 2025-07-10 11:37:05.0316 373207/T4 age/Cor/CoreMain.cpp:1092 ]: Checking whether to disconnect long-running connections for process 2437457, application /home/tecklyne/server.deshitecommerce (development)
+App 3997742 output: > Ready on 30007
+App 3997742 output: (node:3997742) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+App 3997742 output: (Use `node --trace-deprecation ...` to show where the warning was created)
+App 3997742 output: react-i18next:: You will need to pass in an i18next instance by using initReactI18next
+[ N 2025-07-10 14:56:15.0513 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-11 13:56:15.5797 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-12 01:56:16.1018 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-13 14:56:16.6219 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-14 03:56:17.1657 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-15 03:56:17.7793 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-16 02:56:18.2739 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-17 16:56:18.8017 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-18 09:56:19.3382 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-18 21:56:19.8601 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-20 01:56:20.3847 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-20 18:56:20.9208 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-22 05:56:21.4257 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-23 08:56:21.9276 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-23 20:56:22.4691 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+App 3997742 output: upstream image response failed for /images/logo.jpg TypeError: fetch failed
+App 3997742 output:     at node:internal/deps/undici/undici:13502:13
+App 3997742 output:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+App 3997742 output:     at async invokeRequest (/home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/lib/server-ipc/invoke-request.js:17:12)
+App 3997742 output:     at async /home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/next-server.js:365:35
+App 3997742 output:     at async imageOptimizer (/home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/image-optimizer.js:533:13)
+App 3997742 output:     at async cacheEntry.imageResponseCache.get.incrementalCache (/home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/next-server.js:519:61)
+App 3997742 output:     at async /home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/response-cache/index.js:92:36
+App 3997742 output:     at async /home/tecklyne/server.deshitecommerce/node_modules/next/dist/lib/batcher.js:43:32 {
+App 3997742 output:   [cause]: AggregateError [ECONNREFUSED]: 
+App 3997742 output:       at internalConnectMultiple (node:net:1139:18)
+App 3997742 output:       at afterConnectMultiple (node:net:1712:7) {
+App 3997742 output:     code: 'ECONNREFUSED',
+App 3997742 output:     [errors]: [ [Error], [Error] ]
+App 3997742 output:   }
+App 3997742 output: }
+App 3997742 output: upstream image response failed for /images/logo.jpg TypeError: fetch failed
+App 3997742 output:     at node:internal/deps/undici/undici:13502:13
+App 3997742 output:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+App 3997742 output:     at async invokeRequest (/home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/lib/server-ipc/invoke-request.js:17:12)
+App 3997742 output:     at async /home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/next-server.js:365:35
+App 3997742 output:     at async imageOptimizer (/home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/image-optimizer.js:533:13)
+App 3997742 output:     at async cacheEntry.imageResponseCache.get.incrementalCache (/home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/next-server.js:519:61)
+App 3997742 output:     at async /home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/response-cache/index.js:92:36
+App 3997742 output:     at async /home/tecklyne/server.deshitecommerce/node_modules/next/dist/lib/batcher.js:43:32 {
+App 3997742 output:   [cause]: AggregateError [ECONNREFUSED]: 
+App 3997742 output:       at internalConnectMultiple (node:net:1139:18)
+App 3997742 output:       at afterConnectMultiple (node:net:1712:7) {
+App 3997742 output:     code: 'ECONNREFUSED',
+App 3997742 output:     [errors]: [ [Error], [Error] ]
+App 3997742 output:   }
+App 3997742 output: }
+App 3997742 output: upstream image response failed for /images/logo.jpg TypeError: fetch failed
+App 3997742 output:     at node:internal/deps/undici/undici:13502:13
+App 3997742 output:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+App 3997742 output:     at async invokeRequest (/home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/lib/server-ipc/invoke-request.js:17:12)
+App 3997742 output:     at async /home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/next-server.js:365:35
+App 3997742 output:     at async imageOptimizer (/home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/image-optimizer.js:533:13)
+App 3997742 output:     at async cacheEntry.imageResponseCache.get.incrementalCache (/home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/next-server.js:519:61)
+App 3997742 output:     at async /home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/response-cache/index.js:92:36
+App 3997742 output:     at async /home/tecklyne/server.deshitecommerce/node_modules/next/dist/lib/batcher.js:43:32 {
+App 3997742 output:   [cause]: AggregateError [ECONNREFUSED]: 
+App 3997742 output:       at internalConnectMultiple (node:net:1139:18)
+App 3997742 output:       at afterConnectMultiple (node:net:1712:7) {
+App 3997742 output:     code: 'ECONNREFUSED',
+App 3997742 output:     [errors]: [ [Error], [Error] ]
+App 3997742 output:   }
+App 3997742 output: }
+[ N 2025-07-25 06:56:22.9791 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-26 04:56:23.4961 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ W 2025-07-27 12:20:48.4762 373207/Tb age/Cor/Con/InternalUtils.cpp:96 ]: [Client 2-154] Sending 502 response: application did not send a complete response
+[ W 2025-07-27 12:20:48.4762 373207/T1h age/Cor/Con/InternalUtils.cpp:96 ]: [Client 23-153] Sending 502 response: application did not send a complete response
+[ W 2025-07-27 12:20:48.4762 373207/T1f age/Cor/Con/InternalUtils.cpp:96 ]: [Client 22-153] Sending 502 response: application did not send a complete response
+[ W 2025-07-27 12:20:48.4762 373207/T1j age/Cor/Con/InternalUtils.cpp:96 ]: [Client 24-153] Sending 502 response: application did not send a complete response
+[ W 2025-07-27 12:20:48.4762 373207/T9 age/Cor/Con/InternalUtils.cpp:96 ]: [Client 1-154] Sending 502 response: application did not send a complete response
+[ W 2025-07-27 12:20:48.4764 373207/Th age/Cor/Con/InternalUtils.cpp:96 ]: [Client 5-154] Sending 502 response: application did not send a complete response
+[ W 2025-07-27 12:20:48.4764 373207/Tf age/Cor/Con/InternalUtils.cpp:96 ]: [Client 4-154] Sending 502 response: application did not send a complete response
+[ W 2025-07-27 12:20:48.4764 373207/Td age/Cor/Con/InternalUtils.cpp:96 ]: [Client 3-154] Sending 502 response: application did not send a complete response
+[ N 2025-07-27 12:20:48.4818 373207/Tj age/Cor/CoreMain.cpp:1092 ]: Checking whether to disconnect long-running connections for process 3997742, application /home/tecklyne/server.deshitecommerce (development)
+App 420589 output: > Ready on 30007
+App 420589 output: (node:420589) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+App 420589 output: (Use `node --trace-deprecation ...` to show where the warning was created)
+App 420589 output: upstream image response failed for /images/logo.jpg TypeError: fetch failed
+App 420589 output:     at node:internal/deps/undici/undici:13502:13
+App 420589 output:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+App 420589 output:     at async invokeRequest (/home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/lib/server-ipc/invoke-request.js:17:12)
+App 420589 output:     at async /home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/next-server.js:365:35
+App 420589 output:     at async imageOptimizer (/home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/image-optimizer.js:533:13)
+App 420589 output:     at async cacheEntry.imageResponseCache.get.incrementalCache (/home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/next-server.js:519:61)
+App 420589 output:     at async /home/tecklyne/server.deshitecommerce/node_modules/next/dist/server/response-cache/index.js:92:36
+App 420589 output:     at async /home/tecklyne/server.deshitecommerce/node_modules/next/dist/lib/batcher.js:43:32 {
+App 420589 output:   [cause]: AggregateError [ECONNREFUSED]: 
+App 420589 output:       at internalConnectMultiple (node:net:1139:18)
+App 420589 output:       at afterConnectMultiple (node:net:1712:7) {
+App 420589 output:     code: 'ECONNREFUSED',
+App 420589 output:     [errors]: [ [Error], [Error] ]
+App 420589 output:   }
+App 420589 output: }
+App 420589 output: react-i18next:: You will need to pass in an i18next instance by using initReactI18next
+[ N 2025-07-27 16:56:24.0098 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-28 04:56:24.5088 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-29 04:56:25.0057 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-29 19:56:25.5153 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-07-30 19:56:26.0353 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-08-01 01:56:26.6042 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ N 2025-08-01 19:56:27.1472 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
+[ W 2025-08-02 03:41:10.0382 373207/T4 age/Cor/App/Poo/AnalyticsCollection.cpp:104 ]: Process (pid=420589, group=/home/tecklyne/server.deshitecommerce (development)) no longer exists! Detaching it from the pool.
+[ N 2025-08-02 03:41:10.0384 373207/T4 age/Cor/CoreMain.cpp:1092 ]: Checking whether to disconnect long-running connections for process 420589, application /home/tecklyne/server.deshitecommerce (development)
+App 2318399 output: > Ready on 30007
+App 2318399 output: (node:2318399) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+App 2318399 output: (Use `node --trace-deprecation ...` to show where the warning was created)
+App 2318399 output: react-i18next:: You will need to pass in an i18next instance by using initReactI18next
+[ N 2025-08-02 19:56:27.6636 373207/T6 age/Cor/SecurityUpdateChecker.h:518 ]: Security update check: no update found (next check in 24 hours)
